@@ -1,0 +1,41 @@
+body {
+   
+    color:black;
+    font-family: Raleway,Thonburi;
+    background-image:url(/assets/ocean.webp);
+    background-size: 100%;
+    background-attachment: absolute;
+    /* background-position:center; */
+    background-repeat: no-repeat;
+}
+
+
+#hero_text{
+    top: 10%;
+    margin: 200px auto;   
+    position: relative;
+    margin-right: 4;
+    text-align:center;
+    z-index:-1;
+}
+#hero_image{
+    width: 100%;
+}
+
+footer {
+    background-color: #f1fbfc;
+    margin: 100px 0 0 0;
+    padding: 5px 0;
+}
+
+main{
+    background-color:rgb(255, 255, 255); 
+    padding-top: 20px;
+}
+#happening{
+    margin:30px;
+    padding: 10px 20px;
+    background-color:rgb(225, 242, 245);
+    border-radius: 10px;
+    box-shadow: ;
+}
